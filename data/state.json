@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "last_run": null,
-  "first_run_date": null,
+  "last_run": "2026-08-02T17:36:44+08:00",
+  "first_run_date": "2026-08-02",
   "seen_article_ids": {},
-  "monitored_accounts": []
+  "monitored_accounts": [
+    "数据法研",
+    "法学生校招指南",
+    "LAW Offer",
+    "应届生求职上岸",
+    "法律offer",
+    "法律小伙伴",
+    "法律竞赛",
+    "律职圈",
+    "上政就业",
+    "银行招聘网"
+  ]
 }
