@@ -32,6 +32,8 @@ def load_config(path: Path | str | None = None) -> dict[str, Any]:
     config.setdefault("discover", {})
     config["discover"].setdefault("keywords", [])
     config["discover"].setdefault("max_pages", 2)
+    config["discover"].setdefault("auto_monitor_top_n", 0)
+    config["discover"].setdefault("auto_monitor_min_count", 1)
 
     config.setdefault("filter", {})
     config["filter"].setdefault("law_keywords", [])
@@ -48,3 +50,13 @@ def load_config(path: Path | str | None = None) -> dict[str, Any]:
         config["wecom"]["webhook_key"] = env_key
 
     return config
+
+
+def save_config(config: dict[str, Any], path: Path | str | None = None) -> None:
+    """Save configuration back to YAML."""
+    if path is None:
+        path = DEFAULT_CONFIG_PATH
+    path = Path(path)
+
+    with path.open("w", encoding="utf-8") as f:
+        yaml.safe_dump(config, f, allow_unicode=True, sort_keys=False, default_flow_style=False)

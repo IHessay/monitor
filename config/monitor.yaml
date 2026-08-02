@@ -22,6 +22,12 @@ discover:
   # 每个关键词搜索的页数
   max_pages: 2
 
+  # 自动把发现结果的前 N 个公众号加入监控列表，0 表示不自动
+  auto_monitor_top_n: 10
+
+  # 自动加入的账号至少需要出现过几次
+  auto_monitor_min_count: 2
+
 filter:
   law_keywords:
     - 律所

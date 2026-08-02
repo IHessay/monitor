@@ -15,7 +15,8 @@
 2. 在企业微信群里添加一个机器人，复制 Webhook Key。
 3. 在仓库 **Settings → Secrets and variables → Actions** 中添加 `WECOM_WEBHOOK_KEY`。
 4. 手动运行 `.github/workflows/discover.yml` 生成候选公众号列表 `data/candidates.json`。
-5. 将确认的公众号名称写入 `config/monitor.yaml` 的 `monitor.accounts`。
+   - 如果设置了 `discover.auto_monitor_top_n: 10`（已默认开启），会自动把前 10 个候选公众号写入 `config/monitor.yaml`，无需手动挑选。
+5. （可选）如果关闭了自动写入，可将确认的公众号名称写入 `config/monitor.yaml` 的 `monitor.accounts`。
 6. 手动运行 `.github/workflows/monitor.yml` 测试推送。
 7. 监控任务会在每天北京时间 07:05 自动运行。
 
