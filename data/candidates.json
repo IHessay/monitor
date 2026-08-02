@@ -1,1 +1,489 @@
-[]
+[
+  {
+    "name": "数据法研",
+    "article_count": 7,
+    "sample_titles": [
+      "实习|腾讯音乐招聘2027届法务实习生,Base 广州",
+      "2027校招|星尘智能招聘2027届法务专员",
+      "2027校招|OPPO招聘法务经理,Base 东莞",
+      "2026年律所&法务日常实习/暑期实习/校招岗位表",
+      "实习|腾讯音乐招聘2027届法务实习生,Base 广州"
+    ],
+    "source_queries": [
+      "2027 律所 实习",
+      "2027 法务 校招",
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "法学生校招指南",
+    "article_count": 5,
+    "sample_titles": [
+      "2027届法学校招:OPPO(法务经理)",
+      "2027届法学校招:科大讯飞(合同商务工程师 、履约管理工程师)",
+      "2027届法学校招:华金证券(华金新锐:业务内控方向)",
+      "美国凯易国际律师事务所实习:资本市场业务(有留用机会)",
+      "2027届法学校招:科大讯飞(合同商务工程师 、履约管理工程师)"
+    ],
+    "source_queries": [
+      "2027 律所 实习",
+      "2027 法学 秋招",
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "LAW Offer",
+    "article_count": 4,
+    "sample_titles": [
+      "留用实习|| 环球律师事务所(北京办公室)",
+      "留用实习|| 炜衡律师事务所(北京办公室)",
+      "留用实习|| 汉坤律师事务所(华东)",
+      "留用实习|| 通商律师事务所(北京、上海)"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "应届生求职上岸",
+    "article_count": 4,
+    "sample_titles": [
+      "中国农业银行2027秋招报考条件+暑期备考方案,26届27届必看!",
+      "2027建设银行秋招全指南:招录详情+报名门槛+笔试面试+薪资福利",
+      "中国银行2027秋招全流程备考指南、26届27届必看!",
+      "农业发展银行2027秋招时间线、报录比一文看懂|不做柜员不揽储、无业绩压力的政策行铁饭碗、27届必看!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "法律offer",
+    "article_count": 2,
+    "sample_titles": [
+      "华为招聘2027届法务类实习生",
+      "影石2027校园招聘法务"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "法律小伙伴",
+    "article_count": 2,
+    "sample_titles": [
+      "法务类招聘| 智元2027届校园招聘全面启动",
+      "多岗位招聘 | 中伦律师事务所(成都办公室)"
+    ],
+    "source_queries": [
+      "2027 律所 实习",
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "法律竞赛",
+    "article_count": 2,
+    "sample_titles": [
+      "2.17实习速递,锦天城律师事务所等",
+      "3.2实习速递,通力律师事务所等"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "律职圈",
+    "article_count": 2,
+    "sample_titles": [
+      "【律所】国枫招实习生、律师、律助(速看!!)",
+      "【律所】国浩招实习生(8月初到岗!)"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "上政就业",
+    "article_count": 2,
+    "sample_titles": [
+      "实习信息 | 国浩律师事务所招聘实习生",
+      "实习信息 | 通商律师事务所招聘实习生"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "银行招聘网",
+    "article_count": 2,
+    "sample_titles": [
+      "中国农业发展银行2027秋招招聘计划、备考攻略一览!",
+      "交通银行2027秋招倒计时!招考计划、条件&备考攻略一览!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "智仕教育",
+    "article_count": 2,
+    "sample_titles": [
+      "农行2027秋招!全国招25000+人,不限专业、县域岗无英语要求,26/27届速看!",
+      "2027银行秋招必看!中国银行全国招20000+人,笔试分两批次,最早9月27日开考!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "锐成公考",
+    "article_count": 2,
+    "sample_titles": [
+      "银行秋招攻略丨三大政策性银行2027秋招报考门槛&网申&笔面试全攻略",
+      "银行秋招攻略丨十二家全国股份制银行2027秋招报考门槛&网申&笔面试全攻略"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "行政法治",
+    "article_count": 1,
+    "sample_titles": [
+      "东北某211大学自2027年起停招法律硕士"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "大大娱乐法",
+    "article_count": 1,
+    "sample_titles": [
+      "突发!某211大学2027年起停招法律硕士!"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "华为法务招聘",
+    "article_count": 1,
+    "sample_titles": [
+      "华为财经法务2027届实习生招聘正式启动"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "淄博就业人才",
+    "article_count": 1,
+    "sample_titles": [
+      "【荐岗】九强集团2027届校园招聘80人"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "力锐银行考试",
+    "article_count": 1,
+    "sample_titles": [
+      "2027农业发展银行校园招聘计划&薪资待遇"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "山大橙师",
+    "article_count": 1,
+    "sample_titles": [
+      "2027年教师招聘开始了 | 枣庄市教育局直属学校专项引进2027届优秀高校毕业生公告30人"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "深大就业",
+    "article_count": 1,
+    "sample_titles": [
+      "华为 |2027届研发类、财经类、法务类等岗位实习生招聘正在进行中!(深圳、东莞、北京、上海等地)"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "法益圈 LAW CLUB",
+    "article_count": 1,
+    "sample_titles": [
+      "【法律招聘】宇通集团2027届校园招聘法务"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "央企国企招聘网",
+    "article_count": 1,
+    "sample_titles": [
+      "中国五矿2027届暑期实习生招聘公告"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "力锐教育",
+    "article_count": 1,
+    "sample_titles": [
+      "2027华夏银行校园招聘计划&薪资待遇"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "面竞研究",
+    "article_count": 1,
+    "sample_titles": [
+      "瑞银校招 |2027亚太区校园招聘正式启动!"
+    ],
+    "source_queries": [
+      "2027 法律 招聘"
+    ]
+  },
+  {
+    "name": "校园精英汇",
+    "article_count": 1,
+    "sample_titles": [
+      "名企校招 | 君合律所2027暑期实习生招聘启动!红圈所+北上广深杭渝等多地有岗,法学生速抢!"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "嘉懿名企Offer",
+    "article_count": 1,
+    "sample_titles": [
+      "君合律所2027实习/ 全职同步热招|红圈头部律所,资本市场 / 跨境并购全赛道,双导师带教优异可留用"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "行研侦探",
+    "article_count": 1,
+    "sample_titles": [
+      "几个金融相关律所的实习岗位,有的有留用机会"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "法学号角",
+    "article_count": 1,
+    "sample_titles": [
+      "上海律所实习|1-1.2万"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "山东科技大学就业中心",
+    "article_count": 1,
+    "sample_titles": [
+      "【就业实践】上门对接就业资源!文法学院携2027届毕业生深入律所打通求职渠道"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "孟德斯鸠杂谈",
+    "article_count": 1,
+    "sample_titles": [
+      "【北京】国浩律所招聘实习生,合伙人系钱伯斯“争议解决:诉讼”板块上榜律师"
+    ],
+    "source_queries": [
+      "2027 律所 实习"
+    ]
+  },
+  {
+    "name": "offer锦囊",
+    "article_count": 1,
+    "sample_titles": [
+      "【国企】蜀道投资集团 2026届校园招聘"
+    ],
+    "source_queries": [
+      "2027 法务 校招"
+    ]
+  },
+  {
+    "name": "CUHKSZ就业与升学",
+    "article_count": 1,
+    "sample_titles": [
+      "招聘|盛业集团2027届校园招聘"
+    ],
+    "source_queries": [
+      "2027 法务 校招"
+    ]
+  },
+  {
+    "name": "国企校园招聘",
+    "article_count": 1,
+    "sample_titles": [
+      "中国航天科工2027届校园招聘及薪酬待遇!"
+    ],
+    "source_queries": [
+      "2027 法务 校招"
+    ]
+  },
+  {
+    "name": "大学生求职就业找华图",
+    "article_count": 1,
+    "sample_titles": [
+      "国家电网2027届校园招聘"
+    ],
+    "source_queries": [
+      "2027 法务 校招"
+    ]
+  },
+  {
+    "name": "炬智通求职 AiCareer",
+    "article_count": 1,
+    "sample_titles": [
+      "校招| 百度2027届校园招聘正式启动!"
+    ],
+    "source_queries": [
+      "2027 法务 校招"
+    ]
+  },
+  {
+    "name": "中烟求职网",
+    "article_count": 1,
+    "sample_titles": [
+      "中国农业发展银行2027届校园招聘计划"
+    ],
+    "source_queries": [
+      "2027 法务 校招"
+    ]
+  },
+  {
+    "name": "空乘星人集散地",
+    "article_count": 1,
+    "sample_titles": [
+      "中国航天科工2027届校园招聘及薪酬待遇"
+    ],
+    "source_queries": [
+      "2027 法务 校招"
+    ]
+  },
+  {
+    "name": "投行咨询求职",
+    "article_count": 1,
+    "sample_titles": [
+      "中国进出口银行2027届校园招聘指南"
+    ],
+    "source_queries": [
+      "2027 法务 校招"
+    ]
+  },
+  {
+    "name": "重庆交大就业",
+    "article_count": 1,
+    "sample_titles": [
+      "【招聘信息】交通银行2027秋招"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "应届求职网",
+    "article_count": 1,
+    "sample_titles": [
+      "中国银行2027秋招计划!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "职聘人才丨直签丨实习就业找工作",
+    "article_count": 1,
+    "sample_titles": [
+      "农行2027秋招全指南|招录条件、岗位、流程一览,26、27 届收藏"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "国央求职网",
+    "article_count": 1,
+    "sample_titles": [
+      "中国移动2027届秋招即将开启!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "秋招上岸",
+    "article_count": 1,
+    "sample_titles": [
+      "2027工行秋招全攻略!应届生别裸考!孙梅老师拆解上岸关键细节"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "51职前",
+    "article_count": 1,
+    "sample_titles": [
+      "岗位合集丨2027届秋招大厂开始发力啦!NVIDIA/vivo/影石Insta360/深信服/腾讯音乐/网易游戏等启动校招!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "人行招聘考试信息",
+    "article_count": 1,
+    "sample_titles": [
+      "交通银行2027秋招倒计时!招考计划、条件&备考攻略一览!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "盐城天元教育",
+    "article_count": 1,
+    "sample_titles": [
+      "中国农业发展银行2027秋招招聘计划、备考攻略一览!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  },
+  {
+    "name": "助你银考上岸",
+    "article_count": 1,
+    "sample_titles": [
+      "中国农业银行2027秋招报考条件+暑期备考方案,26届27届必看!"
+    ],
+    "source_queries": [
+      "2027 法学 秋招"
+    ]
+  }
+]
