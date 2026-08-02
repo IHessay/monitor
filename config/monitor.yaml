@@ -1,0 +1,66 @@
+monitor:
+  # 用户确认后需要监控的公众号名称列表
+  # 初次使用请先运行 discover.yml，从 data/candidates.json 中挑选后填入
+  accounts:
+    # - 红圈所招聘
+    # - 法律就业
+
+  # 每个账号每天最多抓取的文章数
+  max_articles_per_account: 10
+
+  # 是否在没有匹配文章时发送“今日无新岗位”的兜底消息
+  send_empty_notice: false
+
+discover:
+  # 用于发现候选公众号的搜狗微信搜索关键词
+  keywords:
+    - "2027 法律 招聘"
+    - "2027 律所 实习"
+    - "2027 法务 校招"
+    - "2027 法学 秋招"
+
+  # 每个关键词搜索的页数
+  max_pages: 2
+
+filter:
+  law_keywords:
+    - 律所
+    - 法务
+    - 律师
+    - 法律
+    - 法学生
+    - 法学
+    - 红圈
+
+  job_keywords:
+    - 招聘
+    - 实习
+    - 暑期
+    - 校招
+    - 秋招
+    - 春招
+    - 留用
+    - 全职
+    - 兼职
+    - 助理
+    - 授薪
+
+  year_patterns:
+    - "2027"
+    - "2027届"
+    - "27届"
+
+  negative:
+    - 培训课
+    - 课程
+    - 考研
+    - 留学中介
+    - 广告
+
+wecom:
+  # Webhook Key 通过 GitHub Secret WECOM_WEBHOOK_KEY 注入，不要写在这里
+  webhook_key: ""
+
+schedule:
+  # 北京时间每天 07:05
+  cron_utc: "5 23 * * *"

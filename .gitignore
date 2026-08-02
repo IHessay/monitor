@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (keep templates, ignore runtime backups)
+data/*.bak
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Debug artifacts
+debug_*.html
