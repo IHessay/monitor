@@ -1,8 +1,27 @@
 {
   "version": 1,
-  "last_run": "2026-09-21T09:01:46+08:00",
+  "last_run": "2026-09-23T09:27:08+08:00",
   "first_run_date": "2026-08-02",
-  "seen_article_ids": {},
+  "seen_article_ids": {
+    "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
+      "title": "法学生国庆弯道超车计划(3.5k+字详细教程)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790126667&ver=6983&signature=hrqTyXZAXyAdUl1*HM9tobtmfO2Ze4D*-UrFroY-kEk*fwNA5zn1VZ0D2qOW4XgyuYRYIj9bwmYbYbM6rLWkBnGJvZt9Oc7fq3*NZIzcfEvFrGMv55jdioC-Kiz0vox0&new=1",
+      "first_seen": "2026-09-23T09:27:08+08:00"
+    },
+    "d6aa1a4e0ea4dabd87c7baa262082b2056283ae8be11b21a025dcea192a3bac0": {
+      "title": "24届法学生,互联网大厂秋招岗位来了",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790126667&ver=6983&signature=hrqTyXZAXyAdUl1*HM9tobtmfO2Ze4D*-UrFroY-kEncc4y22esdfdH9IvUdJlYEXHMK8OthVLcY5TKKDbcVXJGWMbKs34QQediD9SDS-rAwfVbB0b2HJKzBURrmXFBI&new=1",
+      "first_seen": "2026-09-23T09:27:08+08:00"
+    },
+    "9dbb2df18c0b9175b1d543afdb4b81a372bf2a645c7f1946b573c3eea012ae74": {
+      "title": "法学生秋招岗位表(12月)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790126669&ver=6983&signature=hrqTyXZAXyAdUl1*HM9tobtmfO2Ze4D*-UrFroY-kEmro3vAjNn*BSBoTppyAa2dvR5M8ZIdv-FE-3vp47Tl-7kwN71ENkoPajxyQEosprF4dihFOPzcbEh11f8Afu*h&new=1",
+      "first_seen": "2026-09-23T09:27:08+08:00"
+    }
+  },
   "monitored_accounts": [
     "数据法研",
     "法学生校招指南",
