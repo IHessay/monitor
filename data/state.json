@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-08T10:40:42+08:00",
+  "last_run": "2026-10-09T10:58:20+08:00",
   "first_run_date": "2026-08-02",
   "seen_article_ids": {
     "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
@@ -20,6 +20,48 @@
       "account": "法学生校招指南",
       "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1790126669&ver=6983&signature=hrqTyXZAXyAdUl1*HM9tobtmfO2Ze4D*-UrFroY-kEmro3vAjNn*BSBoTppyAa2dvR5M8ZIdv-FE-3vp47Tl-7kwN71ENkoPajxyQEosprF4dihFOPzcbEh11f8Afu*h&new=1",
       "first_seen": "2026-09-23T09:27:08+08:00"
+    },
+    "1ead1d13baa4bfb9d2a657d55766b4fdbb100e60f5297c78c555550cc731fc45": {
+      "title": "2027届法学校招:保利集团(经营管理类、产业管理类)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791514459&ver=7015&signature=dznaXqCHEP3cPONsQh7el*BtbZb3YD-aF54r59g3Swv2*61i1OOTA90Do*BdZvOWUwrU4fxYT-cpK1sPGTolE2Gt60eBbIuE2dAeDcHN1BlWuAttzxXWYRgjmE-AXylH&new=1",
+      "first_seen": "2026-10-09T10:58:20+08:00"
+    },
+    "27f094f82c430d29d63f37c7cc79e72da50a2a2a013fb01a8e234b863bd82288": {
+      "title": "法学暑期实习:民生银行(法律资格证优先)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791514459&ver=7015&signature=dznaXqCHEP3cPONsQh7el*BtbZb3YD-aF54r59g3Swsa6wqVJWdtaX-8jarLqKBeJ07WSetW0LxuxOA1jVrdso99832k2SKrQCp1sJYPMuF9XdhuDNoF3FaCHv27wJkT&new=1",
+      "first_seen": "2026-10-09T10:58:20+08:00"
+    },
+    "e471e5a6731d4f324dc6c1bba0ec008b78c42aaf92c36dd3c9535adb9b272e42": {
+      "title": "2027届法学校招:国药集团(法务专员、法律合规、综合业务)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791514459&ver=7015&signature=dznaXqCHEP3cPONsQh7el*BtbZb3YD-aF54r59g3Swto3HySWtZd5XAOP4yfKuwJzCTbyfIKI3XfU8S2zTzuwDdQoZG4TRNQOdGlb0p1W2YsuIXzxXfeKvFXlyAOjDGS&new=1",
+      "first_seen": "2026-10-09T10:58:20+08:00"
+    },
+    "761fcc4076a1dd8d8a27c51b547fa25baad267462a7a1cd5860af83ddd0e6c2a": {
+      "title": "27届法学招聘岗位表,正式启动订购!",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791514459&ver=7015&signature=dznaXqCHEP3cPONsQh7el*BtbZb3YD-aF54r59g3SwvOrphIx30dBsrkjyHxC-CXM9WSLHFLyqk26E5xZjIEqVnmtp-ul18Adg3yoU5H36xTINX*0MOPAWeAF*g0Ml69&new=1",
+      "first_seen": "2026-10-09T10:58:20+08:00"
+    },
+    "d261df2bee1b5ed686fff0af484fce7ef01921090d49e748410586b2908e06a4": {
+      "title": "2027届法学校招:海康威视(涉外法务专员、应收专员)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791514459&ver=7015&signature=dznaXqCHEP3cPONsQh7el*BtbZb3YD-aF54r59g3Swu5aClQhvP7SGjY3qQEushNwNFq8xWwLUa2Er913pQ4pG8FxoJU0mdqBcDaj-sfUQsgBjONr8ZNRLPq5Ywp31rh&new=1",
+      "first_seen": "2026-10-09T10:58:20+08:00"
+    },
+    "ef943b3e282343deb4c901a2b1c092368a55e35a6d2c417577e943f07751dd51": {
+      "title": "德勤暑期实习:法证与金融犯罪防范、审计与鉴证",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791514459&ver=7015&signature=dznaXqCHEP3cPONsQh7el*BtbZb3YD-aF54r59g3Swsn4jBJn*A3XUxTFfjLOsakRbBzpuq0kjiTfxRoJoHxlzghNocLy7SgN5GSze9pAHOIFUJpwKgygWx1gdewSMLp&new=1",
+      "first_seen": "2026-10-09T10:58:20+08:00"
+    },
+    "0f0e7bd001c0f03c5afbf2551bcdaf87480437eaf41e3b560b2c531a6b814914": {
+      "title": "留用实习 || 竞天公诚律师事务所(上海办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791514496&ver=7015&signature=GhHRm3hEidPlfmAzK-XBhVIxr3xbvtz2gecqFfC98Nl5t5B4YNhzbJ63da3-QiN9TVtNEehFFOQvyJDdzQwRyqFOlogl7-ntRkMM6zffhdF*o*jhvKz6WD1YWN8fYiKY&new=1",
+      "first_seen": "2026-10-09T10:58:20+08:00"
     }
   },
   "monitored_accounts": [
