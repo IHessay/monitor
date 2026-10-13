@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-12T10:17:38+08:00",
+  "last_run": "2026-10-13T11:33:39+08:00",
   "first_run_date": "2026-08-02",
   "seen_article_ids": {
     "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
@@ -74,6 +74,36 @@
       "account": "法学生校招指南",
       "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791683224&ver=7019&signature=uNJ8r96gQ1BqNTi0N1OfHxZR0sIgHBLbu5IWkPL1sH5JCdnRKRIBiCVhjAEEAtf1uh4dNCSfUt3CzdycMBauj3Uhl-sb*yjua2JvsjCRAEgr65NafTNxge*eicFPXSPU&new=1",
       "first_seen": "2026-10-11T09:51:16+08:00"
+    },
+    "1a26a5dbd74e323d01ed18d9204e61ddd95fe96af65d6ab9dba4a8790d795611": {
+      "title": "24届法学生秋招法学岗(名企篇)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791862176&ver=7023&signature=*2kt2bU3XaPvHl540GidvismvpptqxPJy05xOAOEg*En7rnZD4ihyu-xeBGFuQ6fXS5dQ3gbc8jOU7JgUbR5vC06nWkzLdhx*ml89FUafoNoiRO6xXk68Of-bDFP1TWc&new=1",
+      "first_seen": "2026-10-13T11:33:39+08:00"
+    },
+    "65af4643c24e16fc639ff8075db878ebacfe67920cde4485789dc0129f444814": {
+      "title": "实习 || 竞天公诚律师事务所(北京办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791862215&ver=7023&signature=0eZapevHuF*yqdZf2p04j72EIHImItb0CEl4aNOHIB6UPWZdLDsFMYmLEkKkH9ycpeFX7BQn*bqQ8J3l66QiZTCwfigFtOBKZAvfbjPN0yLd7ONuvqQv1oKC7yiBzDrC&new=1",
+      "first_seen": "2026-10-13T11:33:39+08:00"
+    },
+    "0669e966a572a969f440519796a6c58c5e3cf06d7076b2d462cd4820e0037570": {
+      "title": "实习 || 字节跳动法务实习生(北京)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791862215&ver=7023&signature=0eZapevHuF*yqdZf2p04j72EIHImItb0CEl4aNOHIB6ShtMxty7v-3CMMadyN36pgvcRw*UbKEgmO3RxO9mKA*xv3A0kOBCEk4kvKazu-eNgNjyBVogbrgq2lH0g2-g0&new=1",
+      "first_seen": "2026-10-13T11:33:39+08:00"
+    },
+    "0c9fe0df612b72c8781e5d5f3bde7a443d7bb29d60063ac3f8b863fa0aa3ada7": {
+      "title": "实习 || 德国丰伟律师事务所(上海代表处)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791862218&ver=7023&signature=0eZapevHuF*yqdZf2p04j72EIHImItb0CEl4aNOHIB7JVSBkR03w*SU*oMMNdyC*Fvu0m*HQDbuwU4RmmITQ833bqqAdoG2wahT3acEmj69dhGgLesZRFlRWqCXFG8y6&new=1",
+      "first_seen": "2026-10-13T11:33:39+08:00"
+    },
+    "38f7461b0670abe7af0bdad1964a1776733ed430aeda7e2dc0f70f74cb447964": {
+      "title": "留用实习&社招 || 德和衡律师事务所(北京办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791862218&ver=7023&signature=0eZapevHuF*yqdZf2p04j72EIHImItb0CEl4aNOHIB6WlfSawvCdsr7oBnGfb1m5wrXlZ4JI36wju4yPhg80b5VQ7nHwfKuj5pVbaGVWf*BVBVHnrArkt9AYc49bC8K8&new=1",
+      "first_seen": "2026-10-13T11:33:39+08:00"
     }
   },
   "monitored_accounts": [
