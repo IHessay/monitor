@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-13T11:33:39+08:00",
+  "last_run": "2026-10-14T09:51:53+08:00",
   "first_run_date": "2026-08-02",
   "seen_article_ids": {
     "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
@@ -104,6 +104,30 @@
       "account": "LAW Offer",
       "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791862218&ver=7023&signature=0eZapevHuF*yqdZf2p04j72EIHImItb0CEl4aNOHIB6WlfSawvCdsr7oBnGfb1m5wrXlZ4JI36wju4yPhg80b5VQ7nHwfKuj5pVbaGVWf*BVBVHnrArkt9AYc49bC8K8&new=1",
       "first_seen": "2026-10-13T11:33:39+08:00"
+    },
+    "9d17771e873c9b473f52223097f9daa21398e8fdec8cf2d3a9fe12daa81af2a0": {
+      "title": "2027届法学校招:中国通信服务(法务专员)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791942449&ver=7025&signature=scuAbacsNkaoDNSFaXqnI*7IAYQ5Q337MBCINQkctMhySnpDMPm3AK2zVtccxDRhOet-az2BfsFePTspv7RcmCzpb5UrAg515x4Fn0IJvpuhVMcC8AC-GpCoClvpVvTY&new=1",
+      "first_seen": "2026-10-14T09:51:53+08:00"
+    },
+    "b89760de1ac65769d72eaa11d755c67f81e8ca74e09b3764ff953652d0b260fc": {
+      "title": "实习 || 建纬律师事务所(上海办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791942490&ver=7025&signature=xr0Lft1Cs4ggDGuyhFwfNqpXjqbj8LVXgRcxDVHaDn9DpGtUtw8KFLWpOALE9HMiCUT3hDjBXRTVomH7qnDHycamqtJVuJI6Ag4cidlD4TEU5PuZ9LenNCiAltjechw0&new=1",
+      "first_seen": "2026-10-14T09:51:53+08:00"
+    },
+    "698144c559af423b4b27485a3a9174eddd30061485d2f3b615ec7553708c721b": {
+      "title": "社招&留用实习 || 德恒律师事务所(北京办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791942490&ver=7025&signature=xr0Lft1Cs4ggDGuyhFwfNqpXjqbj8LVXgRcxDVHaDn9N-SFWaas4IFWrCiNAynEGMUwO0*yqFFbjJqLvv2vxJL3e-JV0rhrgZSIhMRsiVqca*HK95ztjAh8BQ1lFHjCD&new=1",
+      "first_seen": "2026-10-14T09:51:53+08:00"
+    },
+    "c535b8fe65997845e33e5b32a26a095587d76f30c3ba5eea56c198a9a4fd5b5a": {
+      "title": "实习 || 美国普盈律师事务所(北京代表处)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1791942493&ver=7025&signature=xr0Lft1Cs4ggDGuyhFwfNqpXjqbj8LVXgRcxDVHaDn*Hu3-uJ*rZ0t5zDqIONjmdRpzvSS9m6CF-Cz7aZ3pXUFPZNP*MxY9AM5YgZfsfABQxqRdGZ6n2hfG3wKnhfEYr&new=1",
+      "first_seen": "2026-10-14T09:51:53+08:00"
     }
   },
   "monitored_accounts": [
