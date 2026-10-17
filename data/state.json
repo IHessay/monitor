@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-16T09:11:33+08:00",
+  "last_run": "2026-10-17T09:18:53+08:00",
   "first_run_date": "2026-08-02",
   "seen_article_ids": {
     "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
@@ -176,6 +176,42 @@
       "account": "律职圈",
       "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792027563&ver=7027&signature=1Fpmda8l*3Z4IPaKP0vYehAJrnCvfhr8un5juwEXjcqMOb1VQAKekCwQdye9*g8ReZd2ADtpTmULJGeQrxnBSX7*dZaxn8ByI8DqCciCKSJi7ZTZZ5tB7wVuPTBcirMB&new=1",
       "first_seen": "2026-10-15T09:27:02+08:00"
+    },
+    "124da948c0d45caf2b3470423dc095cdb2f3de202c310538f852b70d6923779c": {
+      "title": "2027届法学校招:中国冶金地质总局(法务专员岗、法务专员、党务专员、违规追责岗、党群文化干事、综合事务岗)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792199689&ver=7031&signature=*t0Pyu6iVCn4or0a26E5bhxqSITMAols6X8U0bJCoEytx6rxCw953C0gu4gHNYhH-BN7LUm5LrCDDDnVzOkcTeElwR-HkdVmUtZtThehYXbGim1N5GS5-oKR2EwDtFfr&new=1",
+      "first_seen": "2026-10-17T09:18:53+08:00"
+    },
+    "d7090bede886719ed12d297fbabbeee2ea18fc6d817b4ca6ce7c30895a457891": {
+      "title": "实习 || 英国安理国际律师事务所(上海代表处)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792199726&ver=7031&signature=JZw-ho95UWSlAd4zlSQkgPUq*Vs3dKBpWU9990fSK-D5gTbcU-ZApCqF63rHpIlDOzQ5h3JvdvURFlME64Ewcf6etOHln4uACMPl76s8FLbjYYI5c2CuJKAYMKKzSQSM&new=1",
+      "first_seen": "2026-10-17T09:18:53+08:00"
+    },
+    "09c587a5612e8ac452963c8ee09c32d88d211bffec3f50082a215b93a62ef4e4": {
+      "title": "留用实习 || 大成律师事务所(北京办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792199726&ver=7031&signature=JZw-ho95UWSlAd4zlSQkgPUq*Vs3dKBpWU9990fSK-BXUFGTwLwzYxifvvvR3fxBpFT8nqdwVXNUEAvnR6dm*Xj*shs5ZW7l7Rr8QDK*p9htvHq90oOxIhi3fOp38wZ*&new=1",
+      "first_seen": "2026-10-17T09:18:53+08:00"
+    },
+    "f3336fcb9755ccbff5d37cbd8c390d2309c165af22afe23fec9441600889f570": {
+      "title": "留用实习 || 环球律师事务所(深圳办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792199726&ver=7031&signature=JZw-ho95UWSlAd4zlSQkgPUq*Vs3dKBpWU9990fSK-Chg221th0ePy2GxGfoeuW2F9pVz5ORagQ-z9CxmQ4VjMZ2RR1kbu20ZsiVTmVg33FwQyE217nlhcglSMEOJurh&new=1",
+      "first_seen": "2026-10-17T09:18:53+08:00"
+    },
+    "4d58287d3599f76b5b1a474a07e1f9566f21a9529dddfd3d8b1b88847007e894": {
+      "title": "留用实习 || 挪威威宝律师事务所(上海代表处)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792199726&ver=7031&signature=JZw-ho95UWSlAd4zlSQkgPUq*Vs3dKBpWU9990fSK-DLE9cHkAJk8shWXWe2UV7QfNVCiw2B**y4ZL4dB7VYpRlTPoBC-DukCvLdK9qAZ1vHIu2Dig5nQeQbD7r2-h8q&new=1",
+      "first_seen": "2026-10-17T09:18:53+08:00"
+    },
+    "acafc68b5d6b16cb0c0e1e59ae1de3e1a106ba145707efecc4f7e39279df004b": {
+      "title": "留用实习 || 美国盛德国际律师事务所(北京代表处)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792199726&ver=7031&signature=JZw-ho95UWSlAd4zlSQkgPUq*Vs3dKBpWU9990fSK-C9wSU2UzlY133Sgm-bPYEXtmKyVJJrQS*1qNCrGNZSV1Uqm7ZiW7ElvGshOc7rin3nAyj8rBw*Q7m4ry0*r4ek&new=1",
+      "first_seen": "2026-10-17T09:18:53+08:00"
     }
   },
   "monitored_accounts": [
