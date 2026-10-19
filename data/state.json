@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-18T08:52:19+08:00",
+  "last_run": "2026-10-19T09:06:21+08:00",
   "first_run_date": "2026-08-02",
   "seen_article_ids": {
     "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
@@ -212,6 +212,18 @@
       "account": "LAW Offer",
       "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792199726&ver=7031&signature=JZw-ho95UWSlAd4zlSQkgPUq*Vs3dKBpWU9990fSK-C9wSU2UzlY133Sgm-bPYEXtmKyVJJrQS*1qNCrGNZSV1Uqm7ZiW7ElvGshOc7rin3nAyj8rBw*Q7m4ry0*r4ek&new=1",
       "first_seen": "2026-10-17T09:18:53+08:00"
+    },
+    "372f3a5635cbd0282a4aef6ef30527d4ddc18e5c71abdb7d0945f43f1583a62e": {
+      "title": "留用实习 || 金诚同达律师事务所(深圳办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792371807&ver=7035&signature=jSztSHaB8nAn6FFZ41DBypPnN2XgOOhRv3bpQO638bJfEIBFeFeAYtdD6JrG-KfotK3gA-Qlm1cY57hT81ZyIWsNqwZZ5M2NY1ecCqTVwUy8Q6ZCSeuapxsruCw3qVDC&new=1",
+      "first_seen": "2026-10-19T09:06:21+08:00"
+    },
+    "670985ef69524462a17c3a1741a2e9d23002c7620378534abfc9c605226f99ab": {
+      "title": "社招&留用实习 || 大成律师事务所(深圳办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792371807&ver=7035&signature=jSztSHaB8nAn6FFZ41DBypPnN2XgOOhRv3bpQO638bL8Qja-tseXUQwEoZ5zVKZZwBQY0bfM2PHmGs4FQ8769quHy6fEYhb*9yxri8s733Seg8tf9F3-03NdSUF2FMlD&new=1",
+      "first_seen": "2026-10-19T09:06:21+08:00"
     }
   },
   "monitored_accounts": [
