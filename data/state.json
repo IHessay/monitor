@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-10-27T10:00:16+08:00",
+  "last_run": "2026-10-28T10:11:10+08:00",
   "first_run_date": "2026-08-02",
   "seen_article_ids": {
     "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
@@ -224,6 +224,12 @@
       "account": "LAW Offer",
       "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1792371807&ver=7035&signature=jSztSHaB8nAn6FFZ41DBypPnN2XgOOhRv3bpQO638bL8Qja-tseXUQwEoZ5zVKZZwBQY0bfM2PHmGs4FQ8769quHy6fEYhb*9yxri8s733Seg8tf9F3-03NdSUF2FMlD&new=1",
       "first_seen": "2026-10-19T09:06:21+08:00"
+    },
+    "48f1eb771c54fa6e1da30d5cd036ea5d8e0bf8550d011f6b857df382b1d63967": {
+      "title": "法学生日常实习:华商律师事务所",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793153237&ver=7053&signature=TJxWpkNi-ufqL-qE7WeazE3RUEx5LcGEFvMjO6j1AdFcSwGwo1SCYHu5f9LIXN1X-Y5zHiJcwElQjbi-6dFgqzFYbRHoXdKmo0*6gIsykaH*PN5tYKP4GcSbF1yo95Gd&new=1",
+      "first_seen": "2026-10-28T10:11:10+08:00"
     }
   },
   "monitored_accounts": [
