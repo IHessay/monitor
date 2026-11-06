@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-05T11:27:04+08:00",
+  "last_run": "2026-11-06T11:25:28+08:00",
   "first_run_date": "2026-08-02",
   "seen_article_ids": {
     "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
@@ -230,6 +230,48 @@
       "account": "法学生校招指南",
       "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793153237&ver=7053&signature=TJxWpkNi-ufqL-qE7WeazE3RUEx5LcGEFvMjO6j1AdFcSwGwo1SCYHu5f9LIXN1X-Y5zHiJcwElQjbi-6dFgqzFYbRHoXdKmo0*6gIsykaH*PN5tYKP4GcSbF1yo95Gd&new=1",
       "first_seen": "2026-10-28T10:11:10+08:00"
+    },
+    "fce2e764162f68657276e422613c7aeae02b84ea59c4f14cee74e5ccf275f3fd": {
+      "title": "2027届法学校招:兴泰控股(管理培训生)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793935288&ver=7071&signature=v032AmrX1S-V40OdXnzr0wRiZLyfPKzMdqDcYAgcLuitnQK5VEvzYhSFGBlNV2GJFay3bs5rA4pp-PpWDEMevRJDCfD*jl*wRVziynX*jkmd2YQjE7mjgESO4K4nzlGD&new=1",
+      "first_seen": "2026-11-06T11:25:28+08:00"
+    },
+    "465fa7e0064c2c10524a93f5c1bb85b442399d2bbc4e046bb9ff165f19f7b3ec": {
+      "title": "2027届法学校招:中国建筑(法务管理岗、法律事务岗、智能管理岗)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793935292&ver=7071&signature=v032AmrX1S-V40OdXnzr0wRiZLyfPKzMdqDcYAgcLuhL4vh3NtDYGNqnBlPMdMeLhZtoepxLt1yysm-2Gg-rFDmVhBvGFYzu8UG0O2YX*3DaY6nVUVmXPiRjF1RK*S03&new=1",
+      "first_seen": "2026-11-06T11:25:28+08:00"
+    },
+    "15791f34ce09bc65150b22d5005afaf62f9c9e9f578bbcadb4151ad532ef21b4": {
+      "title": "2027届法学校招:中国中治(合同管理岗 、风险管理岗 、法务合规岗 、职能管理岗 、法务等)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793935292&ver=7071&signature=v032AmrX1S-V40OdXnzr0wRiZLyfPKzMdqDcYAgcLugHB*93bAKzKy7trMNUxY9jq4lW*TG5I9zDI7EXm6Xbmwn6ZR5dZy*FU1tTSRyOXzuIcd1xYq55ScxCq6*8fStt&new=1",
+      "first_seen": "2026-11-06T11:25:28+08:00"
+    },
+    "b116d2f8a140806106391620ddaa0de5600e501d6509edd1a03cc9642095b06f": {
+      "title": "实习 || 世界贸易组织WTO法律事务部(日内瓦)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793935299&ver=7071&signature=EH92LMu0OoO3o2DXvMGhAAddB1smSt4gWzKynZV28GIJh4i-A3N2G7cMrqioZVBXQQs0e8TcvGk47B8hZCBizsmtuAGgzfo4KFyf6b4qaTujvTDcia88aXOumJkZDOL3&new=1",
+      "first_seen": "2026-11-06T11:25:28+08:00"
+    },
+    "cb93e66dc90e46bad41fc08dd0f35f8fbe3a1a7c786074d1411ba8f68e72742b": {
+      "title": "实习 || 蔚来汽车法务部实习生(上海)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793935304&ver=7071&signature=EH92LMu0OoO3o2DXvMGhAAddB1smSt4gWzKynZV28GJlP1BLNmSEfYLgakH4KT4UycAXmUpytZi-krbKDPJDGAoyTQmtwE3KcXXeu7YmbGpT*jXr9OzOCxqgL705U3fx&new=1",
+      "first_seen": "2026-11-06T11:25:28+08:00"
+    },
+    "274929685ae152c2642c5ccdb007e8c8614b12732687f5222a80d987033cb5c0": {
+      "title": "留用实习 || 炜衡律师事务所(上海办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793935334&ver=7071&signature=EH92LMu0OoO3o2DXvMGhAAddB1smSt4gWzKynZV28GKM0Y9I7PpXQM5l8dS8gTBOiXUvNkgvGFD4ZiKJiOwD5jc6h7rjDgpV3juWDWGsDTVheze76tiiSgQRbKzYW2rD&new=1",
+      "first_seen": "2026-11-06T11:25:28+08:00"
+    },
+    "19ea7d8fcd5e4ed68d2cabdb398a0871a5024a58ba1b911698fdb9b573bb04ec": {
+      "title": "留用实习 || 炜衡律师事务所(北京办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1793935334&ver=7071&signature=EH92LMu0OoO3o2DXvMGhAAddB1smSt4gWzKynZV28GK2ZTtUY*YMKFQoHa9NDzYytRTeJksFprN6Jc1Sl7pB-8YWV8Yh9-orEuDW72PDFVQzxdYgJyjSIbJHnutYwcxa&new=1",
+      "first_seen": "2026-11-06T11:25:28+08:00"
     }
   },
   "monitored_accounts": [
