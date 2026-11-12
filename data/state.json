@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_run": "2026-11-11T10:42:55+08:00",
+  "last_run": "2026-11-12T11:46:51+08:00",
   "first_run_date": "2026-08-02",
   "seen_article_ids": {
     "547a51b43eb4361c38c05de9093a03979ca2d8c0b6f4275c193c85d77d8e1315": {
@@ -290,6 +290,24 @@
       "account": "法学生校招指南",
       "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794191600&ver=7077&signature=c9UijrD4iVIHVZfkscTLGrkqlW3wYn01hCIA1nm1ejPfhs4CJwFqDO5965OuWkbNrB8LMVTCInA4bXrO*Ti9HWBA8v25qA6gEr18mDX4Wcau8gO-LPFJKSPZTf-AQmQ8&new=1",
       "first_seen": "2026-11-09T10:37:13+08:00"
+    },
+    "4586742e682f871b6a44ecf25170d9dc5abf01f31cbe599f90f2593724a11641": {
+      "title": "2027届法学校招:中储粮(综合管理岗、调研督办岗、政策研究岗、采购管理岗、审计整改岗、综合文字岗、法务合规岗、纪律检查岗)",
+      "account": "法学生校招指南",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794455062&ver=7083&signature=3VmhcX7h0scy1GtqBQYSoUP4sZfvp1rPSFn3U7A5jB-g1OXPqDFzxXQ4GiiDmNA3vfTy1MwuOmSqOv*SvxaLHWjgpsTPKXVoztQgaVanWZQ3iN36jcEeCwJsfHH0ORVS&new=1",
+      "first_seen": "2026-11-12T11:46:51+08:00"
+    },
+    "d8a2e109af0a43db5b84856b317459ec6c00d9574928ed8f233d448d8098fe83": {
+      "title": "实习 || 金茂律师事务所(上海办公室)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794455101&ver=7083&signature=TkvWVGPVTVAOeW89J*uwU8Zvk3BZKCt6Kyxz6BlayR4Qmt97g*3btpDMWUlU5FlTzYumdBDy7ggJDuxPG*LN-HcFo8o5Gr0fUBhqVkRQrFSo6YAb0x8b6MJKH2FgOEYT&new=1",
+      "first_seen": "2026-11-12T11:46:51+08:00"
+    },
+    "fdcb7ceedfa9e2c1643d81dd1cd1e7b365c1c5a0da4524ba3655284f492a9da6": {
+      "title": "实习 || 美国凯易国际律师事务所(上海代表处)",
+      "account": "LAW Offer",
+      "url": "https://mp.weixin.qq.com/s?src=11&timestamp=1794455101&ver=7083&signature=TkvWVGPVTVAOeW89J*uwU8Zvk3BZKCt6Kyxz6BlayR59rUL8p*t9BB*0UsO5AKoFx8bsu0K*L4wAQaDUkC*8j4Ej2teYnpu92tZsakjg8Fwj3yJecVJJ8LT6LXKVPraI&new=1",
+      "first_seen": "2026-11-12T11:46:51+08:00"
     }
   },
   "monitored_accounts": [
